@@ -9,8 +9,7 @@
         "comugamers.com",
         "comugamers.eu",
         "comugamers.org",
-        "cgm.rs",
-        "edaters.network"
+        "cgm.rs"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
@@ -20,9 +19,14 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryAddress": "mc.comugamers.com",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryAddress": "play.comugamers.com",
     "primaryColor": "#026694",
     "secondaryColor": "#f6f6f7",
     "primaryLanguage": "es-EN",
@@ -33,8 +37,12 @@
     ],
     "gameTypes": [
         "PvP",
+        "PvE",
         "Minigames",
-        "Survival"
+        "Survival",
+        "Creative",
+        "Parkour",
+        "Prison"
     ],
     "socials": {
         "twitter": "ComuGamers",
@@ -43,5 +51,7 @@
         "instagram": "comugamers",
         "facebook": "ComuGamers",
         "tiktok": "comugamers"
-    }
+    },
+    "presentationVideo": "1bYC3Z1faeU",
+    "crossplay": true
 }
